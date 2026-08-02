@@ -203,7 +203,7 @@ Example:
 
 ```
 Passenger Survived ✅
-Survival Probability: 85.20%
+Survival Probability: 98%
 ```
 
 ---
@@ -258,25 +258,10 @@ The application will open automatically in your browser.
 * Pandas
 * NumPy
 * Scikit-learn
-* Imbalanced-learn
 * Joblib
 * Streamlit
-* XGBoost
 
----
 
-# Future Improvements
 
-Possible improvements:
 
-* Hyperparameter tuning using GridSearchCV
-* Cross-validation
-* Feature engineering from passenger names and cabins
-* Model deployment on cloud platforms
 
----
-
-# Author
-
-Machine Learning Project
-Titanic Survival Prediction
